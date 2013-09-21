@@ -1,0 +1,14 @@
+{
+  "name": "Hola Mundo",
+  "description": "Sencillo template para empezar a desarrollar para FirefoxOS",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "default_locale": "en",
+  "developer": {
+    "name": "Giovanny Andres Gongora Granada",
+    "url": "http://github.com/Gioyik"
+  },
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}
